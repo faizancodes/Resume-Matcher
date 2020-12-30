@@ -5,6 +5,9 @@ Having a good resume is the first step in landing an internship, without the rig
 
 Utilize this program to improve your resume and add in the recommended keywords to boost your chances of getting hired!
 
+### Note
+This program is computationally intensive and requires much time to finish running, depending on the amount of job listings found. It is best to leave this program running and check back on it after some time.
+
 # How to Run the Code
   - Clone the repository `git clone https://github.com/faizancodes/ResumeMatcher.git`
   
