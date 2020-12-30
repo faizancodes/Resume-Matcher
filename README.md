@@ -1,5 +1,9 @@
 # ResumeMatcher
-See how your resume would stack up against an employer's ATS system! Quantify the text in your resume with NLP to calculate how good of a match you are with an internship position
+See how your resume would stack up against an employer's ATS system! Quantify the text in your resume with NLP to calculate how good of a match you are for an internship position.
+
+Having a good resume is the first step in landing an internship, without the right keywords and content in your sentences, you will likely not get past the first stage in the application process and not get an interview.
+
+Utilize this program to improve your resume and add in the recommended keywords to boost your chances of getting hired!
 
 # How to Run the Code
   - Clone the repository `git clone https://github.com/faizancodes/ResumeMatcher.git`
