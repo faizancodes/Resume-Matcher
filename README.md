@@ -3,7 +3,11 @@ See how your resume would stack up against an employer's ATS system! Quantify th
 
 # How to Run
   - Clone the repository `git clone https://github.com/faizancodes/ResumeMatcher.git`
+  
+  - Navigate to the downloaded folder `cd ResumeMatcher`
 
   - Download all the dependencies`pip install -r requirements.txt`
 
   - Download the NLP model `python -m spacy download en_core_web_lg`  
+  
+  - Run the code `resumematcher.py`
