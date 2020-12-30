@@ -1,7 +1,7 @@
 # ResumeMatcher
 See how your resume would stack up against an employer's ATS system! Quantify the text in your resume with NLP to calculate how good of a match you are with an internship position
 
-# How to Run
+# How to Run the Code
   - Clone the repository `git clone https://github.com/faizancodes/ResumeMatcher.git`
   
   - Navigate to the downloaded folder `cd ResumeMatcher`
