@@ -1,0 +1,8 @@
+nltk==3.4
+matplotlib==3.0.1
+requests==2.23.0
+spacy==2.0.18
+pandas==1.0.5
+numpy==1.18.4
+beautifulsoup4==4.9.3
+PyPDF2==1.26.0
