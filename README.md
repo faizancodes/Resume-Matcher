@@ -3,6 +3,6 @@ See how your resume would stack up against an employer's ATS system! Quantify th
 
 # How to Run
 
-`pip install -r requirements.txt`
+Download all the dependencies`pip install -r requirements.txt`
 
-`python -m spacy download en_core_web_lg`  
+Download the NLP model `python -m spacy download en_core_web_lg`  
