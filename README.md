@@ -55,10 +55,11 @@
      
 # Note 
 
-   - This program is computationally intensive and requires a decent amount time to finish running, depending on the amount of job postings found. It took around 20 minutes to finish running through 115 job postings, indicated by the attached csv file 
+   - This program is computationally intensive and requires a decent amount time to finish running, depending on the amount of job postings found. It took around 20 minutes to finish running through 115 job postings, seen in the attached csv file 
 
-  - When the program starts running, it will print the most common words in your resume, indicated by (word, frequency). Then the program starts iterating through the job postings and calculating the corresponding similarity scores 
-    - The program outputs the most common words for each job description and the direct link to apply for each job posting, which you can simply copy paste into your browser, so you do not have to wait until the entire program is finished running.
+  - When the program starts running, it will print the most common words in your resume, indicated by `(word, frequency)`. Then the program starts iterating through the job postings and calculating the corresponding similarity scores 
+    
+     - The program outputs the most common words for each job description and the direct link to apply for each job posting, which you can simply copy paste into your browser, so you do not have to wait until the entire program is finished running.
   
   ![image](https://user-images.githubusercontent.com/43652410/103391985-c782b700-4ae9-11eb-95ff-f721239014ab.png)
 
