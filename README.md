@@ -1,5 +1,5 @@
 # Resume Matcher
-  - See how your resume would stack up against an employer's ATS system! Quantify the text in your resume with NLP to calculate how good of a match you are for an internship position.
+  - See how your resume would stack up against an employer's ATS system! Quantify the text in your resume with natural language processing to calculate how good of a match you are for an internship position.
 
   - Having a good resume is the first step in landing an internship, without the right keywords and content in your sentences, you will likely not get past the first stage in the application process and not get an interview.
 
