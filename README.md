@@ -5,16 +5,20 @@
 
   - The code for this project is built off of a previous project of mine found [here](https://github.com/faizancodes/Job-Listing-Scraper) which mainly gets you the job listings and links to apply, etc. This program contains a lot of the same code, but with NLP techniques, it is meant to help you assess how good of a match you are for a job position, and help you improve your resume by recommending keywords you should add in. 
 
-### Note
-  - This program is computationally intensive and requires a decent amount time to finish running, depending on the amount of job postings found. 
-  
-  - It took around 20 minutes to finish running through 115 job postings, indicated by the file `Software Engineer Intern Job Postings.csv`
  
-  - **In the attached csv file, there are 4 columns in particular to review:**
+  - **In the attached `Software Engineer Intern Job Postings.csv` file, there are 4 columns in particular to review:**
   
       - **Keyword Similarity:** This is a calculation of how similar the most common words in your resume are with the most common words in the job description. 
-      
+          - Values > 60 mean you have very effective keywords for the particular position
+          - Values 50 <= x <= 60 mean you have good keywords for the position
+          - Values < 50 mean you should update your resume before applying
+         
+         
       - **Sentence Similarity:** This is a calculation of how similar the sentences in your resume are with the sentences in the job description. 
+          - Values 45 <= x <= 50 mean the content of your resume is a great fit for the position
+          - Values 40 <= x <= 45 mean the content of your resume is a good fit for the position
+          - Values < 40 mean you should revise your resume before applying
+      
       
       - **Overall Similarity:** This is the sum of the Keyword Similarity and Sentence Similarity 
           - Values >= 90 mean you are an excellent match
@@ -41,3 +45,9 @@
   
   - Run the code `resumematcher.py`
      - Try running `python resumematcher.py` if you encounter an error 
+     
+### Note 
+
+   - This program is computationally intensive and requires a decent amount time to finish running, depending on the amount of job postings found. 
+  
+  - It took around 20 minutes to finish running through 115 job postings, indicated by the attached file 
