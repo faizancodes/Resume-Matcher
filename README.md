@@ -72,7 +72,7 @@
 
   - Download the NLP model `python -m spacy download en_core_web_lg` (850 MB necessary)
   
-  - Download the necessary packages from NLTK
+  - Download the necessary packages from [NLTK](https://www.nltk.org/)
     ```
     python -m nltk.downloader stopwords
     python -m nltk.downloader punkt
