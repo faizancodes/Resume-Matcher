@@ -37,8 +37,8 @@
   - Upload your resume in the ResumeMatcher folder and name it `resume.pdf`. Make sure it is saved as a pdf
 
   - Your folder should contain all these files:
-  ![Screenshot 2020-12-30 125502](https://user-images.githubusercontent.com/43652410/103371757-46520280-4a9e-11eb-911e-e2c59b1e94c2.png)
-
+  
+ ![image](https://user-images.githubusercontent.com/43652410/103389566-b03dcc80-4add-11eb-866c-830e68b28f6b.png)
 
   - Download all the dependencies`pip install -r requirements.txt`
     - If that gives you an error, try `python -m pip install -r requirements.txt` or `py -m pip install -r requirements.txt`
