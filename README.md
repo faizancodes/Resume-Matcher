@@ -37,9 +37,9 @@
   - If you do not have **git** installed, download it [here](https://git-scm.com/downloads)
   - If you do not have **pip** installed, download it [here](https://pip.pypa.io/en/stable/installing/)
   
-  - Clone the repository `git clone https://github.com/faizancodes/ResumeMatcher.git`
+  - Clone the repository `git clone https://github.com/faizancodes/Resume-Matcher.git`
   
-  - Navigate to the downloaded folder `cd ResumeMatcher`
+  - Navigate to the downloaded folder `cd Resume-Matcher`
   
   - Upload your resume in the ResumeMatcher folder and name it `resume.pdf`. Make sure it is saved as a pdf
 
