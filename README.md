@@ -48,8 +48,11 @@
  ![image](https://user-images.githubusercontent.com/43652410/103389566-b03dcc80-4add-11eb-866c-830e68b28f6b.png)
 
   - Download all the dependencies`pip install -r requirements.txt`
+  
     - If that gives you an error, try
+    
       - `python -m pip install -r requirements.txt` or
+      
       - `pip3 install -r requirements.txt` if you are on Mac
      
 
