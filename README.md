@@ -61,7 +61,7 @@
         source env/bin/activate
         ```   
 
-  - Download all the dependencies`pip install -r requirements.txt`
+  - Download all the dependencies`pip install -r requirements.txt` (this will take a decent amount of time)
   
     - If that gives you an error, try
     
