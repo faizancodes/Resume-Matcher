@@ -46,7 +46,7 @@
   - Your folder should contain all these files:
   
  ![image](https://user-images.githubusercontent.com/43652410/103389566-b03dcc80-4add-11eb-866c-830e68b28f6b.png)
-
+   
   - Create and activate a virtual environment
       
       - **Windows:**
@@ -54,7 +54,7 @@
         py -3.6 -m venv env
         .\env\Scripts\activate
         ```
-      - **Mac**
+      - **Mac & Linux**
         ```
         python3.6 -m venv env
         source env/bin/activate
