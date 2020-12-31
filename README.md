@@ -47,7 +47,7 @@
   
  ![image](https://user-images.githubusercontent.com/43652410/103389566-b03dcc80-4add-11eb-866c-830e68b28f6b.png)
 
-  - Create a virtual environment
+  - Create and activate a virtual environment
       
       - **Windows:**
         ```
