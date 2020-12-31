@@ -30,6 +30,10 @@
       - **Recommended Words:** These are the most common words in the job description and you should add them to your resume
   
 # How to Run the Code
+  
+  - If you do not have **git** installed, download it [here](https://git-scm.com/downloads)
+  - If you do not have **pip** installed, download it [here](https://pip.pypa.io/en/stable/installing/)
+  
   - Clone the repository `git clone https://github.com/faizancodes/ResumeMatcher.git`
   
   - Navigate to the downloaded folder `cd ResumeMatcher`
