@@ -1,13 +1,17 @@
 # ResumeMatcher
-See how your resume would stack up against an employer's ATS system! Quantify the text in your resume with NLP to calculate how good of a match you are for an internship position.
+  - See how your resume would stack up against an employer's ATS system! Quantify the text in your resume with NLP to calculate how good of a match you are for an internship position.
 
-Having a good resume is the first step in landing an internship, without the right keywords and content in your sentences, you will likely not get past the first stage in the application process and not get an interview.
+  - Having a good resume is the first step in landing an internship, without the right keywords and content in your sentences, you will likely not get past the first stage in the application process and not get an interview.
 
-Utilize this program to improve your resume and add in the recommended keywords to boost your chances of getting hired!
+  - The code for this project is built off of a previous project of mine found [here](https://github.com/faizancodes/Job-Listing-Scraper) which mainly gets you the job listings and links to apply, etc. This program is meant to help you assess how good of a match you are for a job position based on your resume, and help you improve your resume by add in the recommended keywords. 
 
 ### Note
-  - This program is computationally intensive and requires much time to finish running, depending on the amount of job listings found. It is best to leave this program running and check back on it after some time.
-
+  - This program is computationally intensive and requires a decent amount time to finish running, depending on the amount of job postings found. 
+  
+  - It took around 20 minutes to finish running through 115 job postings, indicated by the `Software Engineer Intern Job Postings.csv`
+ 
+  - In the attached csv file, there are 4 columns in particular 
+  
 # How to Run the Code
   - Clone the repository `git clone https://github.com/faizancodes/ResumeMatcher.git`
   
