@@ -5,6 +5,7 @@
 
   - The code for this project is built off of a previous project of mine found [here](https://github.com/faizancodes/Job-Listing-Scraper) which mainly gets you the job listings and links to apply, etc. This program contains a lot of the same code, but with NLP techniques, it is meant to help you assess how good of a match you are for a job position, and help you improve your resume by recommending keywords you should add in. 
 
+ # Similarity Metrics 
  
   - **In the attached `Software Engineer Intern Job Postings.csv` file, there are 4 columns in particular to review:**
   
