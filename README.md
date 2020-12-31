@@ -8,6 +8,8 @@
  
   - **In the attached `Software Engineer Intern Job Postings.csv` file, there are 4 columns in particular to review:**
   
+    **The values in the csv file are based on my resume and the description of the values listed below are based on my findings**
+    
       - **Keyword Similarity:** This is a calculation of how similar the most common words in your resume are with the most common words in the job description. 
           - Values > 60 mean you have very effective keywords for the particular position
           - Values 50 <= x <= 60 mean you have good keywords for the position
