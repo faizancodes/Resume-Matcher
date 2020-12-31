@@ -41,7 +41,7 @@
   
   - Navigate to the downloaded folder `cd Resume-Matcher`
   
-  - Upload your resume in the ResumeMatcher folder and name it `resume.pdf`. Make sure it is saved as a pdf
+  - Upload your resume in the Resume-Matcher folder and name it `resume.pdf`. Make sure it is saved as a pdf
 
   - Your folder should contain all these files:
   
