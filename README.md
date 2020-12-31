@@ -10,15 +10,18 @@
   
   - It took around 20 minutes to finish running through 115 job postings, indicated by the file `Software Engineer Intern Job Postings.csv`
  
-  - In the attached csv file, there are 4 columns in particular to review:
+  - **In the attached csv file, there are 4 columns in particular to review:**
   
-      - Keyword Similarity: This is a calculation of how similar the most common words in your resume are with the most common words in the job description. 
+      - **Keyword Similarity:** This is a calculation of how similar the most common words in your resume are with the most common words in the job description. 
       
-      - Sentence Similarity: This is a calculation of how similar the sentences in your resume are with the sentences in the job description. 
+      - **Sentence Similarity:** This is a calculation of how similar the sentences in your resume are with the sentences in the job description. 
       
-      - Overall Similarity: This is the sum of the Keyword Similarity and Sentence Similarity 
+      - **Overall Similarity:** This is the sum of the Keyword Similarity and Sentence Similarity 
+          - Values >= 90 mean you are an excellent match
+          - Values 80 <= x <= 90 mean you are a good match
+          - Values < 80 mean you should revise your resume before applying, add in the suggested keywords 
       
-      - Recommended Words: These are the most common words in the job description and you should add them to your resume
+      - **Recommended Words:** These are the most common words in the job description and you should add them to your resume
   
 # How to Run the Code
   - Clone the repository `git clone https://github.com/faizancodes/ResumeMatcher.git`
