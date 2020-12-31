@@ -20,7 +20,9 @@ Utilize this program to improve your resume and add in the recommended keywords 
 
 
   - Download all the dependencies`pip install -r requirements.txt`
+    - If that gives you an error, try `python -m pip install -r requirements.txt` or `py -m pip install -r requirements.txt`
 
   - Download the NLP model `python -m spacy download en_core_web_lg`  
   
   - Run the code `resumematcher.py`
+     - Try running `python resumematcher.py` if you encounter an error 
