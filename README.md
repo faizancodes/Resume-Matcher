@@ -63,7 +63,7 @@
     
      - The program outputs the most common words for each job description and the direct link to apply for each job posting (as seen in the screenshot below), which you can simply copy paste into your browser, so you do not have to wait until the entire program is finished running.
      
-     - When the program is finished running, it puts all the data into a csv file which you can open wil Excel. From there, you can sort the 'Overall Similarity' column to find the jobs you matched the best with.  
+     - When the program is finished running, it puts all the data into a csv file which you can open with Excel. From there, you can sort the 'Overall Similarity' column to find the jobs you matched the best with.  
   
   ![image](https://user-images.githubusercontent.com/43652410/103391985-c782b700-4ae9-11eb-95ff-f721239014ab.png)
 
