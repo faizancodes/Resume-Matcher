@@ -3,7 +3,7 @@
 
   - Having a good resume is the first step in landing an internship, without the right keywords and content in your sentences, you will likely not get past the first stage in the application process and not get an interview.
 
-  - The code for this project is built off of a previous project of mine found [here](https://github.com/faizancodes/Job-Listing-Scraper) which mainly gets you the job listings and links to apply, etc. This program contains most of the same code, but with NLP techniques, it is meant to help you assess how good of a match you are for a job position, and help you improve your resume by recommending keywords you should add in. 
+  - The code for this project is built off of a previous project of mine found [here](https://github.com/faizancodes/Job-Listing-Scraper) which mainly gets you the job listings and links to apply, etc. This program contains a lot of the same code, but with NLP techniques, it is meant to help you assess how good of a match you are for a job position, and help you improve your resume by recommending keywords you should add in. 
 
 ### Note
   - This program is computationally intensive and requires a decent amount time to finish running, depending on the amount of job postings found. 
