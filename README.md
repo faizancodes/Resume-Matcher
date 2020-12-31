@@ -53,8 +53,12 @@
   - Run the code `resumematcher.py`
      - Try running `python resumematcher.py` if you encounter an error 
      
-### Note 
+# Note 
 
-   - This program is computationally intensive and requires a decent amount time to finish running, depending on the amount of job postings found. 
+   - This program is computationally intensive and requires a decent amount time to finish running, depending on the amount of job postings found. It took around 20 minutes to finish running through 115 job postings, indicated by the attached csv file 
+
+  - When the program starts running, it will print the most common words in your resume, then start iterating through the job postings and calculate the corresponding similarity scores 
+    - The program outputs the most common words for each job description and the direct link to apply for each position, which you can simply copy paste into your browser and not have to wait until the entire program is finished running. 
   
-  - It took around 20 minutes to finish running through 115 job postings, indicated by the attached file 
+  ![image](https://user-images.githubusercontent.com/43652410/103391985-c782b700-4ae9-11eb-95ff-f721239014ab.png)
+
