@@ -69,7 +69,7 @@
       - `pip3 install -r requirements.txt` if you are on Mac
      
 
-  - Download the NLP model `python -m spacy download en_core_web_lg`  
+  - Download the NLP model `python -m spacy download en_core_web_lg` (850 MB necessary)
   
   - Run the code `resumematcher.py`
      - Try running `python resumematcher.py` if you encounter an error 
