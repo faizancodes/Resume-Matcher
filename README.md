@@ -1,11 +1,11 @@
 # Resume Matcher
-  - See how your resume would stack up against an employer's ATS system! Quantify the text in your resume with natural language processing to calculate how good of a match you are for an internship position.
+  - See how your resume would stack up against an employer's ATS system! Quantify the text in your resume with natural language processing to calculate how good of a match you are for a job / internship position.
 
   - Having a good resume is the first step in landing an internship, without the right keywords and content in your sentences, you will likely not get past the first stage in the application process and not get an interview.
 
   - The code for this project is built off of a previous project of mine found [here](https://github.com/faizancodes/Job-Listing-Scraper) which mainly gets you the job listings and links to apply, etc. This program contains a lot of the same code, but with NLP techniques, it is meant to help you assess how good of a match you are for a job position, and help you improve your resume by recommending keywords you should add in. 
 
-- This program works by comparing the contents of your resume to the contents of the full job description found for each job posting on [Indeed](https://www.indeed.com/) and calculating how similar the text is using [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), and [Wordnet](https://github.com/nihitsaxena95/sentence-similarity-wordnet-sementic).
+- This program works by comparing the contents of your resume to the contents of the full description found for each job posting on [Indeed](https://www.indeed.com/) and calculating how similar the text is using [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), and [Wordnet](https://github.com/nihitsaxena95/sentence-similarity-wordnet-sementic).
 
  # Similarity Metrics 
  
