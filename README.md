@@ -61,7 +61,12 @@
         source env/bin/activate
         ```   
 
-  - Download all the dependencies `pip install -r requirements.txt` 
+  - **Your Command Prompt / Terminal should look like this so far:**
+  
+  ![tml](https://user-images.githubusercontent.com/43652410/103432535-578a3480-4bae-11eb-8911-fc3195c0c296.jpg)
+
+
+  - Next, download all the dependencies `pip install -r requirements.txt` 
   
     - If that gives you an error, try
     
