@@ -82,8 +82,8 @@
        `python -m nltk.downloader stopwords punkt averaged_perceptron_tagger`
     
   
-  - Run the code `resumematcher.py`
-     - Try running `python resumematcher.py` if you encounter an error 
+  - Run the code `python resumematcher.py`
+  
      
 # Note 
 
