@@ -45,7 +45,7 @@
 
   - Your folder should contain all these files:
   
- ![image](https://user-images.githubusercontent.com/43652410/103389566-b03dcc80-4add-11eb-866c-830e68b28f6b.png)
+![image](https://user-images.githubusercontent.com/43652410/103432342-69b6a380-4bab-11eb-9069-a24f7da9f4d6.png)
    
   - Create and activate a virtual environment
     - Read more about VMs [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) if you are having issues 
