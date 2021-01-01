@@ -74,9 +74,7 @@
   
   - Download the necessary packages from [NLTK](https://www.nltk.org/)
     ```
-    python -m nltk.downloader stopwords
-    python -m nltk.downloader punkt
-    python -m nltk.downloader averaged_perceptron_tagger
+    python -m nltk.downloader stopwords punkt averaged_perceptron_tagger
     ```
   
   - Run the code `resumematcher.py`
