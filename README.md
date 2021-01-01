@@ -5,7 +5,7 @@
 
   - The code for this project is built off of a previous project of mine found [here](https://github.com/faizancodes/Job-Listing-Scraper) which mainly gets you the job listings and links to apply, etc. This program contains a lot of the same code, but with NLP techniques, it is meant to help you assess how good of a match you are for a job position, and help you improve your resume by recommending keywords you should add in. 
 
-- This program works by comparing the contents of your resume to the contents of the full job description found for each job posting on [Indeed](https://www.indeed.com/) and calculating how similar the text is using [spaCy](https://spacy.io/) and [Wordnet](https://github.com/nihitsaxena95/sentence-similarity-wordnet-sementic).
+- This program works by comparing the contents of your resume to the contents of the full job description found for each job posting on [Indeed](https://www.indeed.com/) and calculating how similar the text is using [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), and [Wordnet](https://github.com/nihitsaxena95/sentence-similarity-wordnet-sementic).
 
  # Similarity Metrics 
  
@@ -77,7 +77,7 @@
 
   - Download the NLP model `python -m spacy download en_core_web_lg` (850 MB necessary)
   
-  - Download the necessary packages from [NLTK](https://www.nltk.org/)
+  - Download the necessary packages for NLTK
     
        `python -m nltk.downloader stopwords punkt averaged_perceptron_tagger`
     
