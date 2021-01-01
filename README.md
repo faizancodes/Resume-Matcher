@@ -77,7 +77,8 @@
 
   - Download the NLP model `python -m spacy download en_core_web_lg` (850 MB necessary)
   
-  - Download the necessary packages for NLTK `python -m nltk.downloader stopwords punkt averaged_perceptron_tagger`
+  - Download the necessary packages for NLTK:
+    `python -m nltk.downloader stopwords punkt averaged_perceptron_tagger`
   
   - Run the code `python resumematcher.py`
   
